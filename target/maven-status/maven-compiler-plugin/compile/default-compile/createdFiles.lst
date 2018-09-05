@@ -1,0 +1,3 @@
+org/wyona/webapp/Server.class
+org/wyona/webapp/models/Client.class
+org/wyona/webapp/controllers/ClientController.class
